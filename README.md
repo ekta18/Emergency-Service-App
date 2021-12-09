@@ -2,7 +2,9 @@
 
 ## <a name="system">About the App</a>
 
-**Emergency Service App** prototype was created using MIT App Inventor where using the user's current location they get contacts of nearby hospitals, fire brigade and police station incase of an emergency. It also provides with all the helpline numbers and lets the user call directly while accessing the app. Lastly, it has all the first aid details user requires in an emergency.
+**Emergency Service App** prototype was created using MIT App Inventor where using the user's current location they get contact of nearby hospitals, fire brigade and police station incase of an emergency. It also provides with all the helpline numbers and lets the user call directly while accessing the app. Lastly, it has all the first aid details user requires in an emergency.
+
+(**Note :** Only the apk file of the app is been uploaded above.)
 
 ---
 
@@ -15,10 +17,10 @@
     </tr> 
     <tr>
         <td>
-            <img src="images/homepage.jpg" alt="Image" width="840" height="650">
+            <img src="images/homepage.jpg" alt="Image" width="830" height="650">
         </td>
         <td>
-            <img src="images/location_service.jpg" alt="Image" width="840" height="650">
+            <img src="images/location_service.jpg" alt="Image" width="830" height="650">
         </td>
     </tr>
     <tr>
@@ -27,10 +29,10 @@
     </tr> 
     <tr>
         <td>
-            <img src="images/emergency_contact.jpg" alt="Image" width="840" height="650">
+            <img src="images/emergency_contact.jpg" alt="Image" width="830" height="650">
         </td>
         <td>
-            <img src="images/profile_details.jpg" alt="Image" width="840" height="650">
+            <img src="images/profile_details.jpg" alt="Image" width="830" height="650">
         </td>
     </tr> 
     <tr>
@@ -39,10 +41,10 @@
     </tr> 
     <tr>
         <td>
-            <img src="images/first_aid.jpg" alt="Image" width="840" height="650">
+            <img src="images/first_aid.jpg" alt="Image" width="830" height="650">
         </td>
         <td>
-            <img src="images/detailed_first_aid.jpg" alt="Image" width="840" height="650">
+            <img src="images/detailed_first_aid.jpg" alt="Image" width="830" height="650">
         </td>
     </tr> 
 </table>
